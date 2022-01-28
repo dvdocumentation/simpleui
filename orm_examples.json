@@ -37,7 +37,7 @@
     "Processes": [
       {
         "type": "Process",
-        "ProcessName": "Пример с ORM v.1",
+        "ProcessName": "Пример с ORM v.2",
         "PlanFactHeader": "План-факт",
         "DefineOnBackPressed": false,
         "hidden": false,
